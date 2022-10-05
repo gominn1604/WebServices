@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DanhSachSinhVien>
+    <SinhVien>
+        <Ten>Danh</Ten>
+        <Tuoi>21</Tuoi>
+        <Diem>
+            <Toan HeSo="1">7</Toan>
+            <Van HeSo="1">6</Van>
+            <LapTrinh HeSo = "2">8</LapTrinh>
+        </Diem>
+    </SinhVien>
+    <SinhVien>
+        <Ten>Ti</Ten>
+        <Tuoi>21</Tuoi>
+        <Diem>
+            <Toan HeSo="1">5</Toan>
+            <LapTrinh HeSo="2">5</LapTrinh>
+        </Diem>
+    </SinhVien>
+    <SinhVien>
+        <Ten>Dat</Ten>
+        <Tuoi>21</Tuoi>
+        <Diem> 
+            <Toan HeSo="1">9</Toan>
+            <LapTrinh HeSo="2">10</LapTrinh>
+    </SinhVien>
+</DanhSachSinhVien>
+
+
+    

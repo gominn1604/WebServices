@@ -1,0 +1,41 @@
+[
+    {
+        "ten": "Tèo",
+        "tuoi": 21,
+        "toan": 7,
+        "tiengAnh": 8,
+        "lapTrinh": 9,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": {
+            "email": "teo@gmail.com",
+            "phone": "0999.888.777"
+        }
+    },
+    {
+        "ten": "Danh",
+        "tuoi": 21,
+        "toan": 8,
+        "tiengAnh": 8,
+        "lapTrinh": 8,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": {
+            "email": "gominn@gmail.com",
+            "phone": "0868.888.777"
+        }
+    },
+    {
+        "ten": "Đạt",
+        "tuoi": 21,
+        "toan": 8,
+        "tiengAnh": 8,
+        "lapTrinh": 9,
+        "diemTB": null,
+        "totNghiep": null,
+        "lienLac": {
+            "email": "daz@gmail.com",
+            "phone": "0999.888.765"
+        }
+    }
+]
